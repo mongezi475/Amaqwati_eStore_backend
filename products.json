@@ -1,19 +1,11 @@
 [
   {
-    "id": "b001",
+    "id": "VPN",
     "name": "VPN",
     "category": "VPN",
     "price": 200.0,
     "image": "images/Vpn.jpeg",
     "description": "Protects your online privacy by encrypting your internet connection"
-  },
-  {
-    "id": "b002",
-    "name": "c++ guide",
-    "category": "Programming guide",
-    "price": 450.0,
-    "image": "images/ecourse.jpeg",
-    "description": "Unlock the Power of Programming"
   },
   {
     "id": "e101",
@@ -24,11 +16,65 @@
     "description": "Elevate Your Online Presence with a Stunning Website Template"
   },
   {
-    "id": "e102",
-    "name": " Programming course",
-    "category": "Online course",
+    "id": "c++1",
+    "name": "c++ guide",
+    "category": "Programming course",
+    "price": 899.99,
+    "image": "images/ecourse.jpeg",
+    "description": "Unlock the Power of Programming"
+  },
+{
+    "id": "Web development",
+    "name": "Web development course",
+    "category": "Programming course",
+    "price": 1299.99,
+    "image": "images/web.jpeg",
+    "description": "Elevate Your Online Presence with a Stunning Website Template"
+},
+
+{
+  "id": "Software Development with C#",
+    "name": "Software Development with C#",
+    "category": "Programming course",
+    "price": 849.99,
+    "image": "images/web.jpeg",
+    "description": "Elevate Your Online Presence with a Stunning Website Template"
+
+},
+
+{
+"id": "Cyber course 1",
+    "name": "- Beginner Courses",
+    "category": "Cyber courses",
     "price": 1299.0,
     "image": "images/ecourse.jpeg",
     "description": "Master the Art of Coding – Your Future Starts Here"
-  }
+
+},
+    
+{
+"id": "Cyber course 2",
+    "name": "CompTIA Security+ Certification Prep",
+    "category": "Cyber courses",
+    "price": 1299.0,
+    "image": "images/ecourse.jpeg",
+    "description": "Master the Art of Coding – Your Future Starts Here"
+
+},
+
+{
+"id": "Cyber course 3",
+    "name": "Ethical Hacking & Penetration Testing",
+    "category": "Cyber courses",
+    "price": 1299.0,
+    "image": "images/ecourse.jpeg",
+    "description": "Master the Art of Coding – Your Future Starts Here"
+}
+
+
+
+
+
+
+
 ]
