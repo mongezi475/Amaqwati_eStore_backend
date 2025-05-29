@@ -1,0 +1,34 @@
+[
+  {
+    "id": "b001",
+    "name": "VPN",
+    "category": "VPN",
+    "price": 200.0,
+    "image": "images/Vpn.jpeg",
+    "description": "Protects your online privacy by encrypting your internet connection"
+  },
+  {
+    "id": "b002",
+    "name": "c++ guide",
+    "category": "Programming guide",
+    "price": 450.0,
+    "image": "images/ecourse.jpeg",
+    "description": "Unlock the Power of Programming"
+  },
+  {
+    "id": "e101",
+    "name": "Template",
+    "category": "Website template",
+    "price": 49.99,
+    "image": "images/web.jpeg",
+    "description": "Elevate Your Online Presence with a Stunning Website Template"
+  },
+  {
+    "id": "e102",
+    "name": " Programming course",
+    "category": "Online course",
+    "price": 1299.0,
+    "image": "images/ecourse.jpeg",
+    "description": "Master the Art of Coding – Your Future Starts Here"
+  }
+]
