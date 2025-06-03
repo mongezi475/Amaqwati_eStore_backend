@@ -28,8 +28,8 @@
     "name": "Web development course",
     "category": "Programming course",
     "price": 1299.99,
-    "image": "images/web.jpeg",
-    "description": "Elevate Your Online Presence with a Stunning Website Template"
+    "image": "images/web-development.png",
+    "description": "Web Development: Create Dynamic & Responsive Websites"
 },
 
 {
@@ -37,8 +37,8 @@
     "name": "Software Development with C#",
     "category": "Programming course",
     "price": 849.99,
-    "image": "images/web.jpeg",
-    "description": "Elevate Your Online Presence with a Stunning Website Template"
+    "image": "images/Software-development-courses-Delhi-1535x1024.jpg",
+    "description": "Master Software development with C#: Bulid a Scalable & Efficent applications"
 
 },
 
@@ -47,8 +47,8 @@
     "name": "- Beginner Courses",
     "category": "Cyber courses",
     "price": 1299.0,
-    "image": "images/ecourse.jpeg",
-    "description": "Master the Art of Coding – Your Future Starts Here"
+    "image": "C:images/cyber beginnersBlue__30_.jpg",
+    "description": "Cybersecurity Fundamentals: Your First Step into Ethical Hacking"
 
 },
     
@@ -56,9 +56,9 @@
 "id": "Cyber course 2",
     "name": "CompTIA Security+ Certification Prep",
     "category": "Cyber courses",
-    "price": 1299.0,
-    "image": "images/ecourse.jpeg",
-    "description": "Master the Art of Coding – Your Future Starts Here"
+    "price": 2299.0,
+    "image": "images/S+blob.png",
+    "description": "Master the Art of Ethical Hacking with CompTIA Security+."
 
 },
 
@@ -66,9 +66,9 @@
 "id": "Cyber course 3",
     "name": "Ethical Hacking & Penetration Testing",
     "category": "Cyber courses",
-    "price": 1299.0,
-    "image": "images/ecourse.jpeg",
-    "description": "Master the Art of Coding – Your Future Starts Here"
+    "price": 4299.0,
+    "image": "images/testdownload.png",
+    "description": "Master the Art of Ethical Hacking with CompTIA Pentest+"
 }
 
 
