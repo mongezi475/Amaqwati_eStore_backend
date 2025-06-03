@@ -1,41 +1,46 @@
 [
   {
-    "id": "b001",
+    "id": "VPN",
     "stock": 50,
-    "costPrice": 80.0
-  },
-  {
-    "id": "b002",
-    "stock": 50,
-    "costPrice": 270.0
+    "costPrice": 100.0
   },
   {
     "id": "e101",
     "stock": 50,
-    "costPrice": 600.0
+    "costPrice": 25.00
   },
   {
-    "id": "e102",
+    "id": "c++1",
     "stock": 50,
-    "costPrice": 779.4
+    "costPrice": 500.0
   },
   {
-    "id": "c301",
+    "id": "Web development",
     "stock": 50,
-    "costPrice": 130.0
+    "costPrice": 350.0
   },
   {
-    "id": "c302",
-    "stock": 50,
-    "costPrice": 239.4
-  },
-  {
-    "id": "g501",
+    "id": "Software Development with C#",
     "stock": 50,
     "costPrice": 400.0
   },
   {
-    "id": "g502",
+    "id": "Cyber course 1",
+    "stock": 50,
+    "costPrice": 450.0
+  },
+  {
+    "id": "Cyber course 2",
+    "stock": 50,
+    "costPrice": 400.0
+  },
+  {
+    "id": "Cyber course 3",
+    "stock": 50,
+    "costPrice": 659.4
+  },
+  {
+    "id": "Cyber course 4",
     "stock": 50,
     "costPrice": 659.4
   }
